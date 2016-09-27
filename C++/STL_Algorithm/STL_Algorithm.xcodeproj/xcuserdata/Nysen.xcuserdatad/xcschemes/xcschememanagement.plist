@@ -9,10 +9,20 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>search_01adjacent_find.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>946DB8381D9A134200FED2EB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>946DB8461D9A13D600FED2EB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
