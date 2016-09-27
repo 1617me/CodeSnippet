@@ -19,6 +19,6 @@ int main(int argc, char **argv){
     printf("main thread id = %x\n", (unsigned int)pthread_self());
     printf("main child thread ID: %x\n", (unsigned int)tid);
     printf("main pid: %d\n", getpid());
-    sleep(1);
+    sleep(10);
     return 0;
 }
